@@ -1,0 +1,1 @@
+{"lastIndex":2,"data":{"1":{"email":"john@gmail.com","name":"john","password":"cookies","entries":0,"joined":"2022-10-18T17:36:17.556Z"},"2":{"email":"sally@gmail.com","name":"sally","password":"bananas","entries":0,"joined":"2022-10-18T17:36:17.556Z"}}}
